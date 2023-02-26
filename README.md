@@ -18,6 +18,7 @@ On gamepad:<br>
  `A`        Boost<br>
  `B`        back to track menu<br>
 <br>
+<br>
 <img src="./Bildschirmfotos/1.png"/>
 <img src="./Bildschirmfotos/2.png"/>
 <img src="./Bildschirmfotos/3.png"/>
@@ -30,6 +31,6 @@ On gamepad:<br>
 <img src="./Bildschirmfotos/10.png"/>
 <img src="./Bildschirmfotos/11.png"/>
 <img src="./Bildschirmfotos/12.png"/>
-<img src="./Bildschirmfotos/13.png"/>
+<img src="./Bildschirmfotos/13.png"/><br>
 <br>
 Original project is here: https://github.com/ptitSeb/stuntcarremake<br>
