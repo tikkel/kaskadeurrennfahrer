@@ -1,7 +1,7 @@
 #define STB_IMAGE_IMPLEMENTATION
 
 #include "dx_linux.h"
-#include "StuntCarRacer.h"
+#include "kaskadeurrennfahrer.h"
 
 void IDirect3DTexture9::LoadTexture(const char *name)
 {

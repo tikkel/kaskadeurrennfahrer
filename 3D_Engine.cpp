@@ -6,7 +6,7 @@
 
 #include "dx_linux.h"
 
-#include "StuntCarRacer.h"
+#include "kaskadeurrennfahrer.h"
 #include "3D_Engine.h"
 
 #define SIN_COS_TABLE_SIZE MAX_ANGLE + (MAX_ANGLE / 4) // makes use of sine/cosine overlap

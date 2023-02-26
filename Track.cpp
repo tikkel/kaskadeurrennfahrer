@@ -10,7 +10,7 @@
 #include "dx_linux.h"
 
 #include "Track.h"
-#include "StuntCarRacer.h"
+#include "kaskadeurrennfahrer.h"
 #include "3D_Engine.h"
 #include "Atlas.h"
 
