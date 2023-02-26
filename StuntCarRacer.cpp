@@ -1557,7 +1557,7 @@ bool GL_MSAA = FALSE;
 int main(int argc, const char **argv)
 {
 	char maintitle[50] = {0};
-	sprintf(maintitle, "StuntCarRacer v%d.%02d.%02d", V_MAJOR, V_MINOR, V_PATCH);
+	sprintf(maintitle, "KaskadeurRennfahrer v%d.%02d.%02d", V_MAJOR, V_MINOR, V_PATCH);
 	printf("%s\n", maintitle);
 	/*	// get executable folder and cd into it...
 		// this is linux only, will not work on BSD or macOS
