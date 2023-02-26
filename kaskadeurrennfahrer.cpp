@@ -1300,7 +1300,7 @@ bool process_events()
 			cout << "Controller added: " << gameController << endl;
 			break;
 		case SDL_CONTROLLERDEVICEREMOVED:
-			gameController = "";
+			gameController = nullptr;
 			SDL_GameControllerClose(0);
 			cout << "Controller removed" << endl;
 			break;
