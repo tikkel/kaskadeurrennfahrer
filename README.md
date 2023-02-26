@@ -1,6 +1,6 @@
 # Kaskadeurrennfahrer
 
-## This is a fork of "stuntcarremake" alias Stunt Car Racer, which is a remake of the old Stunt Car Racer from the AtariST/Amiga time.
+## This is a fork of "stuntcarremake" alias "Stunt Car Racer", which is a remake of the legendary game from the AtariST/Amiga time from Geoff Crammond.
 
 To build on Linux and Windows, simply use `make`.<br>
 For RaspberryPI `make RPI=1`<br>
