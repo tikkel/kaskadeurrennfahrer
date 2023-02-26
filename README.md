@@ -6,7 +6,7 @@ To build on Linux and Windows, simply use `make`.<br>
 For RaspberryPI `make RPI=1`<br>
 and you can try PANDORA=1, PYRA=1, ODROID=1, ODROIDN1=1, CHIP=1 for this platforms.<br>
 <br>
-It supports only OpenGL and SDL2.<br>
+It supports keyboard, gamepad (and only under OpenGL/SDL2).<br>
 <br>
 On keyboard:<br>
  `4 Arrows` Turning / Accelerate / Brake<br>
