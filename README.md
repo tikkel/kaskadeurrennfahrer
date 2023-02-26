@@ -18,4 +18,4 @@ On gamepad:<br>
  `A`        Boost<br>
  `B`        back to track menu<br>
 <br>
-Original project is here: http://sourceforge.net/projects/stuntcarremake/<br>
+Original project is here: https://github.com/ptitSeb/stuntcarremake<br>
