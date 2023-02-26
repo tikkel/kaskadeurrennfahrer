@@ -18,7 +18,7 @@ On gamepad:<br>
  `A`        Boost<br>
  `B`        back to track menu<br>
 <br>
-My test hardware is a AMD laptop with Ubuntu/Windows11 and RaspberryPi400 and a 8BitDo lite gamepad.<br>
+My test hardware is a AMD laptop with Ubuntu/Windows11 and RaspberryPi400/TV(720x480@60Hz) and a 8BitDo lite gamepad.<br>
 <br>
 Original project is here: https://github.com/ptitSeb/stuntcarremake<br>
 <br>
