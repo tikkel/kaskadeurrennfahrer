@@ -1,0 +1,6 @@
+#
+# convert my "8x8.png":
+#   python3 png2ttf.py 8x8.ttf 8x8.png 8 8
+#
+# python-script from: https://github.com/benob/png_font_to_ttf
+#
