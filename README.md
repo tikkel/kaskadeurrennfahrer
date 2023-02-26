@@ -9,14 +9,13 @@ and you can try PANDORA=1, PYRA=1, ODROID=1, ODROIDN1=1, CHIP=1 for this platfor
 It supports only OpenGL and SDL2.<br>
 <br>
 On keyboard:<br>
- [4 Arrows] Turning / Accelerate / Brake
- [Space]    Boost
- [m]        back to track menu
+ `4 Arrows` Turning / Accelerate / Brake<br>
+ `Space`    Boost<br>
+ `m`        back to track menu<br>
 <br>
-On gamepad:
- Left/Right for turning
- (4 Arrows) Turning / Accelerate / Brake
- (A)        Boost
- (B)        back to track menu
+On gamepad:<br>
+ `4 Arrows` Turning / Accelerate / Brake<br>
+ `A`        Boost<br>
+ `B`        back to track menu<br>
 <br>
 Original project is here: http://sourceforge.net/projects/stuntcarremake/<br>
